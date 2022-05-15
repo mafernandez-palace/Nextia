@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AD</id>
+    <version>1.0.0</version>
+    <authors>AD</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="INFO" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.6.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Gits\Nextia\FeatureEugenia2022\AD\bin\Debug\netstandard2.0\AD.dll" target="lib\netstandard2.0\AD.dll" />
+  </files>
+</package>

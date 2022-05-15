@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3CFZ+cqB7w+Z2rItSz6qM0N4ZQMDH99kvlibFehrDx6qiTXpXsruGjCBjzF+KvkEOtBTpE1S/pUmG4DGTObzg==",
+  "success": true,
+  "projectFilePath": "C:\\Gits\\Nextia\\FeatureEugenia2022\\INFO\\INFO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
